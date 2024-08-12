@@ -1,1 +1,2 @@
-GitHub adalah layanan clound untuk menyimpan & mengelola project/repo git
+- Git adalah sebuah version control system yang terdistribusi, yang digunakan untuk mengelola file didalam folder
+- GitHub adalah layanan clound untuk menyimpan & mengelola project/repo git
